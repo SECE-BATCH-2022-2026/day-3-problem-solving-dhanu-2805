@@ -1,0 +1,15 @@
+Linux Task Completed
+
+1. pwd
+2. ls
+3. mkdir linuxlab
+4. cd linuxlab
+5. touch file1.txt
+6. touch file2.txt
+7. ls
+8. echo "Hello Linux" >> file1.txt
+9. cat file1.txt
+10. cp file1.txt copyfile.txt
+11. mv copyfile.txt newfile.txt
+12. rm newfile.txt
+13. history
